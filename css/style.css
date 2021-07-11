@@ -1,0 +1,30 @@
+header, .hero, .body, .bar, .footer{
+	background-color:black;
+	,margin-bottom: 10px;
+}
+
+h1{
+
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+.bo{
+	min-height: 80px;
+	background-color: cyan;
+	margin: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+}
+h4{
+	margin: 30px 0;
+}
+.red{
+	background-color: blueviolet;
+}
+span{
+	background-color: red;
+}
+
